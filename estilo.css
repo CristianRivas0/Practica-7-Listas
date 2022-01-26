@@ -1,15 +1,19 @@
 header.titulo {
     font-weight: bold;
 }
+
 nav.nav {
     font-weight: bold;
 }
+
 ul.circle {
     list-style-type: circle;
 }
+
 ol.roma {
     list-style-type: upper-roman;
 }
+
 ol.letras {
     list-style-type: lower-alpha;
 }
