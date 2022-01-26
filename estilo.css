@@ -4,7 +4,9 @@ header.titulo {
 nav.nav {
     font-weight: bold;
 }
-
+ul.ul {
+    list-style-type: circle;
+}
 ol.roma {
     list-style-type: upper-roman;
 }
