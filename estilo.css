@@ -1,0 +1,13 @@
+header.titulo {
+    font-weight: bold;
+}
+nav.nav {
+    font-weight: bold;
+}
+
+ol.roma {
+    list-style-type: upper-roman;
+}
+ol.letras {
+    list-style-type: lower-alpha;
+}
